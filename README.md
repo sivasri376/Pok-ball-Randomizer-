@@ -1,4 +1,4 @@
-# Pok-ball-Randomizer-
+# Poke-ball-Randomizer-
 <!doctype html>
 <html lang="en">
 <head>
